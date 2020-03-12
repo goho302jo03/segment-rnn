@@ -17,8 +17,8 @@ pip3 install -r requestment.txt
     - mnist/
     - sentiment/
     - sentiment140/
-    - utils/
--** img__________-analyze: it contains the experiment that analyzes the image
+    - utils
+- img-analyze: it contains the experiment that analyzes the image
     - cifar10/
     - fashion/
     - mnist/
@@ -34,8 +34,9 @@ pip3 install -r requestment.txt
 
 #### ACP
 
-***create essential directory
-**```
+create essential directory
+
+*```
 cd ACP/
 mkdir log tmp
 ```
