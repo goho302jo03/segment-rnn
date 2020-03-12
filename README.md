@@ -36,7 +36,7 @@ pip3 install -r requestment.txt
 
 create essential directory
 
-*```
+```
 cd ACP/
 mkdir log tmp
 ```
