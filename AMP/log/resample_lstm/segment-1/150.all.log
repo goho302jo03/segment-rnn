@@ -1,9 +1,0 @@
-Test acc mean: nan
-Test acc var: nan
-Test auc mean: 0.9055249692273704
-Test auc var: 0.007161869639792711
-Test mcc mean: 0.6654129402486578
-Test mcc var: 0.020642681793361144
-Execute epoch: 21.4
-Execute time: 498.825199341774
-(W) Execute time: 496.4412013530731
